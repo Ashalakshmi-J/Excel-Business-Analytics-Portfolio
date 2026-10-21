@@ -9,3 +9,6 @@ Welcome to my Excel analytics workspace! As an MSc IT graduate, this repository 
   - **Commute Distance Dynamics:** Tracked customer purchase trends relative to their daily travel distances.
   - **Age Group Demographics:** Structured custom brackets to isolate purchase behaviors among Middle-Aged, Adolescent, and Senior customer segments.
   - **Operational Filters (Slicers):** Embedded interactive panels tracking Marital Status, Region, and Education to dynamically filter metrics.
+    
+## Dashboard visual interface
+![Bike Buyers Dashboard](dashboard.png)
